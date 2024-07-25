@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I’m Jithmi Kumarasingha.👋</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=FC9680&width=550&lines=Enthusiastic%2C+driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=FC9680&width=550&lines=Enthusiastic%2C+Driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
 <div align="center">
   <img height="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </div>
