@@ -31,8 +31,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/upeksha-herath-b82399215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://medium.com/@upekshadilshan000"><img src="https://img.icons8.com/fluent/48/000000/medium-logo.png"/></a>
+<a href = "https://www.linkedin.com/in/jithmi-kumarasingha-3b6963231/?originalSubdomain=lk"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://medium.com/@jithmikumarasingha0"><img src="https://img.icons8.com/fluent/48/000000/medium-logo.png"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
