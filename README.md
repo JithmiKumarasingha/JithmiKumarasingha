@@ -2,12 +2,10 @@
 <h1 align="center">Hi there, I’m Jithmi Kumarasingha.👋</h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Enthusiastic%2C+driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
 
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Esraa-alii&label=Profile%20views&color=0e75b6&style=flat" />
+  <img height="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </div>
 
-<!--![image_processing20210301-3601-w1fbuc](https://github.com/user-attachments/assets/c6e346ca-fb86-4666-8a91-3aa6db0c1aeb)
 
 
 **JithmiKumarasingha/JithmiKumarasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
