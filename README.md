@@ -3,11 +3,10 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Enthusiastic%2C+driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
 <div align="center">
     <a href="#"><img width="25%" height="auto" src=" "/></a>
-</div>
+</div>![image_processing20210301-3601-w1fbuc](https://github.com/user-attachments/assets/130047b9-cf33-43b1-9254-317c4ff49617)
 
-<pre align="center">
-I am a driven and enthusiastic IT undergraduate with a passion for technology and innovation. I thrive on learning new skills and tackling challenging projects. My curiosity and dedication fuel my continuous growth in the ever-evolving field of software development. With a creative mindset and a keen eye for detail, I aim to contribute meaningfully to the tech community and make a positive impact through my work.
-</pre>
+
+
 
 <!--
 **JithmiKumarasingha/JithmiKumarasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +22,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-<h3 align="left">Connect with me:</h3>
+- 🧑‍🎓 I’m an Undergraduate at **UoM*
+  
+- 💬 Ask me about JavaScript,TypeScript, React, Node.js, and web development best practices.
+
+- 📫 How to reach me **jithmikumarasingha@gmail.com**
+  
+ - 👯 I’m looking to collaborate on **Open Source Projects**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 <p align="left">
 </p>
 
