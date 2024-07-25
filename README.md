@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I’m Jithmi Kumarasingha.👋</h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Enthusiastic%2C+driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
 <div align="center">
-    <a href="#"><img width="25%" height="auto" src="https://github.com/Esraa-alii/Esraa-alii" "/></a>
+    <a href="#"><img width="25%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCodeRookie0&psig=AOvVaw0lkcUNe8oHIEoH_mypvjFE&ust=1722019472371000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPitocrswocDFQAAAAAdAAAAABAJ" "/></a>
 </div>
 
 <pre align="center">
