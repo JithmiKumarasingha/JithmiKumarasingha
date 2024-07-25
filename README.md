@@ -1,5 +1,12 @@
 
 <h1 align="center">Hi there, I’m Jithmi Kumarasingha.👋</h1>
+<div align="center">
+    <a href="#"><img width="25%" height="auto" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" "/></a>
+</div>
+
+<pre align="center">
+I am a driven and enthusiastic IT undergraduate with a passion for technology and innovation. I thrive on learning new skills and tackling challenging projects. My curiosity and dedication fuel my continuous growth in the ever-evolving field of software development. With a creative mindset and a keen eye for detail, I aim to contribute meaningfully to the tech community and make a positive impact through my work.
+</pre>
 
 <!--
 **JithmiKumarasingha/JithmiKumarasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
